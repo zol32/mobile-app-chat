@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482193828529",
+    "project_id": "chat-app-levels",
+    "storage_bucket": "chat-app-levels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482193828529:android:c06cb0a00513db5aa09090",
+        "android_client_info": {
+          "package_name": "com.levels.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482193828529-ee4qsrc61pnrqg3u5tu0j9sk1c6guae0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlhsmVWwt9ju9i8rJFBCj5tN3Wmm3RERE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482193828529-ee4qsrc61pnrqg3u5tu0j9sk1c6guae0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
